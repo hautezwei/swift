@@ -142,6 +142,8 @@ case (0, let y):
     println("y value is \(y)")
 case let (x, y):
     println("somewhere else at (\(x), \(y))")
+default:
+    print("this silk is not good")
 }
 
 
