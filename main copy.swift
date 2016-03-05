@@ -5,7 +5,7 @@
 //  Created by JayWon on 14-6-16.
 //  Copyright (c) 2014年 www.iphonetrain.com 无限互联3G学院. All rights reserved.
 //
-
+// add this is address firstObject `self`()
 import Foundation
 
 //for - in
