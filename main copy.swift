@@ -5,7 +5,11 @@
 //  Created by JayWon on 14-6-16.
 //  Copyright (c) 2014年 www.iphonetrain.com 无限互联3G学院. All rights reserved.
 //
+<<<<<<< b6ded474dcd77367313029a7e33ed994dbf4a779
 // add this is address firstObject `self`()
+=======
+
+>>>>>>> add main copy
 import Foundation
 
 //for - in
