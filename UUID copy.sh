@@ -1,5 +1,5 @@
 
-
+# add some info about to reproduce the issue
 XCODEUUID=`defaults read /Applications/Xcode.app/Contents/Info DVTPlugInCompatibilityUUID`
 # F41BD31E-2683-44B8-AE7F-5F09E919790E
 
