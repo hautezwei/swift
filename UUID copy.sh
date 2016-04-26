@@ -8,3 +8,4 @@ for f in ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/*;
     done
 #  this is a shell script to let you change the UUID
 # add some special moments to go to China  for interview spec 
+# add pig to eat
